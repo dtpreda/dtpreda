@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is David Preda. I'm currently studying Informatics and Computing Engineering @FEUP.
+
+I'm passionate about lower-level technologies such as Embedded Systems, Operating Systems or Microcontrollers.
+Currently learning **✨ Rust ✨** and Microcontroller Programming.
+
+You may reach me at:
+  - LinkedIn: https://www.linkedin.com/in/david-preda-b79314229/
+  - Email: dtpreda30@gmail.com
+
 <!--
 **dtpreda/dtpreda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
